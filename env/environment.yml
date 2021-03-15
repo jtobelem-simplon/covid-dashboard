@@ -1,0 +1,10 @@
+name: covid
+channels:
+- defaults
+- conda-forge
+
+dependencies:
+- jupyterlab
+- seaborn
+- geopandas
+- country_converter
